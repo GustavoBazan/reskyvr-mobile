@@ -1,0 +1,7 @@
+{
+  "name": "ReskyVR",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
