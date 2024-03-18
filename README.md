@@ -1,8 +1,8 @@
 <div align='center'>
 
-<img src="https://media.discordapp.net/attachments/1219270338416742440/1219271247335129128/Resky_vr.png?ex=660ab1d6&is=65f83cd6&hm=bad00b84ceff2002a03b1351a24835593c01e3e5d93f4da4bc0b6c91a9a76d64&=&format=webp&quality=lossless&width=701&height=701" alt="logo" width=701 height=701 />
+<img src="https://media.discordapp.net/attachments/1219270338416742440/1219271247335129128/Resky_vr.png?ex=660ab1d6&is=65f83cd6&hm=bad00b84ceff2002a03b1351a24835593c01e3e5d93f4da4bc0b6c91a9a76d64&=&format=webp&quality=lossless&width=701&height=701" alt="logo" width=500 height=500 />
 
-<h1>Virtual Reality</h1>
+<h1>ReskyVR Mobile</h1>
 <p>Virtual reality mobile app for generating multiple screens and transmitting images between computer and cell phone using Firebase. </p>
 
 <h4> <span> · </span> <a href="https://github.com/GustavoBazan/reskyvr-mobile/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/GustavoBazan/reskyvr-mobile/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/GustavoBazan/reskyvr-mobile/issues"> Request Feature </a> </h4>
