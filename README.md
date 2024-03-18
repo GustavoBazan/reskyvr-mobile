@@ -32,21 +32,13 @@
 - Screen Share your Desktop through Firebase
 - Multiple Virtual Reality Screens
 - Use your cell phone camera to see the keyboard.
-
-
-### :art: Color Reference
-| Color | Hex |
-| --------------- | ---------------------------------------------------------------- |
-| Primary Color | ![#1d72f2](https://via.placeholder.com/10/1d72f2?text=+) #1d72f2 |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+  
 
 ## :grey_question: FAQ
 
-- How do I share my computer screen to my cell phone?
+- **How do I share my computer screen to my cell phone?**
 - You must use the ReskyVR desktop app, connected to the same Firebase database.
-- Is this the final version?
+- **Is this the final version?**
 - No, this is just a demo version of the app code.
 
 
