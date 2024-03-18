@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src=https://media.discordapp.net/attachments/1219270338416742440/1219271247335129128/Resky_vr.png?ex=660ab1d6&is=65f83cd6&hm=bad00b84ceff2002a03b1351a24835593c01e3e5d93f4da4bc0b6c91a9a76d64&=&format=webp&quality=lossless&width=701&height=701 alt="logo" width=700 height=700 />
+<img src="https://media.discordapp.net/attachments/1219270338416742440/1219271247335129128/Resky_vr.png?ex=660ab1d6&is=65f83cd6&hm=bad00b84ceff2002a03b1351a24835593c01e3e5d93f4da4bc0b6c91a9a76d64&=&format=webp&quality=lossless&width=701&height=701" alt="logo" width=701 height=701 />
 
 <h1>Virtual Reality</h1>
 <p>Virtual reality mobile app for generating multiple screens and transmitting images between computer and cell phone using Firebase. </p>
@@ -48,6 +48,6 @@ Distributed under the no License. See LICENSE.txt for more information.
 
 ## :gem: Acknowledgements
 
-Use this section to mention useful resources and libraries that you have used in your projects.
+Useful resources and libraries that i have used in this project.
 
 - [Ionic React, Three.js, Firebase]()
